@@ -24,8 +24,8 @@ defined below:
 
 
 
-This is a nonlinear problem. We well see three approaches to the
-problem, and compare there results, as well as their speeds.
+This is a nonlinear problem. We will see three approaches to the
+problem, and compare their results, as well as their speeds.
 
 Using an algebraic approximation
 --------------------------------
